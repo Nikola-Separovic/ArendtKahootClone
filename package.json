@@ -1,0 +1,24 @@
+{
+  "name": "kahootclone",
+  "version": "1.0.0",
+  "description": "A kahoot website clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.1",
+    "engine.io": "^6.6.3",
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "mongodb": "^3.7.4",
+    "mongoose": "^8.9.5",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "expect": "^29.7.0"
+  }
+}
